@@ -1,13 +1,13 @@
 {
-  "ammInfo": { "version": 1000003, "dateCreated": "2021-12-13T21:03:55.149299" },
+  "ammInfo": { "version": 1000003, "dateCreated": "2021-12-13T21:42:27.758209" },
   "pools": {
     "numberOfPools": 2,
     "1": {
       "poolName": "usdc/weth",
       "poolNameFelt": 2166583936491568067688,
-      "tokenAAddress": "0x96318068993584476554566678028887944631177287979707290498439179561424541922",
+      "tokenAAddress": "0x36839bbd44f3f8ce1e247f89444d6601cad431eb8b4951555c1844641a58e2",
       "tokenAReserves": [2139842644, 0],
-      "tokenBAddress": "0x2988038741966871748949478138602407445090412679846688168277877356952640327524",
+      "tokenBAddress": "0x(2988038741966871748949478138602407445090412679846688168277877356952640327524, 16)",
       "tokenBReserves": [9346481666314, 0],
       "feePercentage": 200,
       "cfmm": 0
@@ -15,9 +15,9 @@
     "2": {
       "poolName": "comp/usdc",
       "poolNameFelt": 1834256860357053342819,
-      "tokenAAddress": "0x2988038741966871748949478138602407445090412679846688168277877356952640327524",
+      "tokenAAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
       "tokenAReserves": [300000000000, 0],
-      "tokenBAddress": "0x3499317467457473024542264214696972810133534076656808130144618654792759793104",
+      "tokenBAddress": "0x(3499317467457473024542264214696972810133534076656808130144618654792759793104, 16)",
       "tokenBReserves": [1000000000, 0],
       "feePercentage": 200,
       "cfmm": 0
@@ -29,7 +29,7 @@
       "tokenName": "USD Coin",
       "tokenSymbol": "USDC",
       "tokenDecimals": 6,
-      "tokenAddress": "0x2988038741966871748949478138602407445090412679846688168277877356952640327524",
+      "tokenAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
       "tokenNameFelt": 6148332821651876206,
       "tokenSymbolFelt": 1431520323
     },
@@ -37,7 +37,7 @@
       "tokenName": "Compound",
       "tokenSymbol": "COMP",
       "tokenDecimals": 6,
-      "tokenAddress": "0x3499317467457473024542264214696972810133534076656808130144618654792759793104",
+      "tokenAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0",
       "tokenNameFelt": 4859222852629786212,
       "tokenSymbolFelt": 1129270608
     },
@@ -45,7 +45,7 @@
       "tokenName": "WETH",
       "tokenSymbol": "\u039e",
       "tokenDecimals": 6,
-      "tokenAddress": "0x96318068993584476554566678028887944631177287979707290498439179561424541922",
+      "tokenAddress": "0x36839bbd44f3f8ce1e247f89444d6601cad431eb8b4951555c1844641a58e2",
       "tokenNameFelt": 1464161352,
       "tokenSymbolFelt": 52894
     }
