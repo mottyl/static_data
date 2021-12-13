@@ -17,7 +17,7 @@
       "poolNameFelt": 1834256860357053342819,
       "tokenAAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
       "tokenAReserves": [300000000000, 0],
-      "tokenBAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0, 16)",
+      "tokenBAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0",
       "tokenBReserves": [1000000000, 0],
       "feePercentage": 200,
       "cfmm": 0
