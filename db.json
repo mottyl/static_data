@@ -38,7 +38,7 @@
     "1": {
       "tokenName": "Compound",
       "tokenSymbol": "COMP",
-      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/comp%402x.png'",
+      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/comp%402x.png",
       "tokenDecimals": 6,
       "tokenAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0",
       "tokenNameFelt": 4859222852629786212,
