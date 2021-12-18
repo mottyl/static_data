@@ -29,7 +29,7 @@
     "numberOfTokens": 3,
     "0": {
       "tokenName": "USD Coin",
-      "tokenSymbol": "USDC",
+      "tokenSymbol": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/usdc%402x.png",
       "tokenDecimals": 6,
       "tokenAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
       "tokenNameFelt": 6148332821651876206,
@@ -38,6 +38,7 @@
     "1": {
       "tokenName": "Compound",
       "tokenSymbol": "COMP",
+      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/comp%402x.png'",
       "tokenDecimals": 6,
       "tokenAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0",
       "tokenNameFelt": 4859222852629786212,
@@ -46,6 +47,7 @@
     "2": {
       "tokenName": "WETH",
       "tokenSymbol": "\u039e",
+      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/eth%402x.png",
       "tokenDecimals": 6,
       "tokenAddress": "0x36839bbd44f3f8ce1e247f89444d6601cad431eb8b4951555c1844641a58e2",
       "tokenNameFelt": 1464161352,
