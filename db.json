@@ -29,7 +29,8 @@
     "numberOfTokens": 3,
     "0": {
       "tokenName": "USD Coin",
-      "tokenSymbol": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/usdc%402x.png",
+      "tokenSymbol": "USDC",
+      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/usdc%402x.png",
       "tokenDecimals": 6,
       "tokenAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
       "tokenNameFelt": 6148332821651876206,
