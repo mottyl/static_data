@@ -1,14 +1,14 @@
 {
-  "ammInfo": { "version": 1000003, "dateCreated": "2021-12-13T21:42:27.758209" },
+  "ammInfo": { "version": 1000005, "dateCreated": "2021-12-21T02:42:36.750764" },
   "pools": {
     "numberOfPools": 2,
     "1": {
       "poolName": "usdc/weth",
       "poolNameFelt": 2166583936491568067688,
-      "tokenAAddress": "0x36839bbd44f3f8ce1e247f89444d6601cad431eb8b4951555c1844641a58e2",
-      "tokenAReserves": [2139842644, 0],
-      "tokenBAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
-      "tokenBReserves": [9346481666314, 0],
+      "tokenAAddress": "0x8960eb4f061cb82522f756ffe5ee1b89a5d90f5dea16fbe281c8ec29abb458",
+      "tokenAReserves": [10200000000000, 0],
+      "tokenBAddress": "0x56f4f6f62bf25b1ae804725597bf710c5060cfcbdbec540ea9161f05f45d567",
+      "tokenBReserves": [1960784314, 0],
       "feePercentage": 200,
       "cfmm": 0,
       "shares": [141421356236, 0]
@@ -16,43 +16,43 @@
     "2": {
       "poolName": "comp/usdc",
       "poolNameFelt": 1834256860357053342819,
-      "tokenAAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
+      "tokenAAddress": "0x8960eb4f061cb82522f756ffe5ee1b89a5d90f5dea16fbe281c8ec29abb458",
       "tokenAReserves": [300000000000, 0],
-      "tokenBAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0",
+      "tokenBAddress": "0x19debacbb63b233debf33f5faab1c55b756163eebc11688bcb3db995dfab3a2",
       "tokenBReserves": [1000000000, 0],
       "feePercentage": 200,
       "cfmm": 0,
-      "shares": [18203853983, 0]
+      "shares": [17320508075, 0]
     }
   },
   "tokens": {
     "numberOfTokens": 3,
     "0": {
+      "tokenName": "Wrapped ETH",
+      "tokenSymbol": "WETH",
+      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/eth%402x.png",
+      "tokenDecimals": 18,
+      "tokenAddress": "0x56f4f6f62bf25b1ae804725597bf710c5060cfcbdbec540ea9161f05f45d567",
+      "tokenNameFelt": 105716693521782237932377160,
+      "tokenSymbolFelt": 1464161352
+    },
+    "1": {
       "tokenName": "USD Coin",
       "tokenSymbol": "USDC",
       "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/usdc%402x.png",
-      "tokenDecimals": 6,
-      "tokenAddress": "0x69b2b84cd4d22ded8510033a77b909500e5709ff3ff616a4cd9d22d578c8f64",
+      "tokenDecimals": 18,
+      "tokenAddress": "0x8960eb4f061cb82522f756ffe5ee1b89a5d90f5dea16fbe281c8ec29abb458",
       "tokenNameFelt": 6148332821651876206,
       "tokenSymbolFelt": 1431520323
     },
-    "1": {
+    "2": {
       "tokenName": "Compound",
       "tokenSymbol": "COMP",
       "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/comp%402x.png",
-      "tokenDecimals": 6,
-      "tokenAddress": "0x7bc8b22bc29bd51d9df7b1d27503799b1d2ec66488bf590bde4e198768a55d0",
+      "tokenDecimals": 18,
+      "tokenAddress": "0x19debacbb63b233debf33f5faab1c55b756163eebc11688bcb3db995dfab3a2",
       "tokenNameFelt": 4859222852629786212,
       "tokenSymbolFelt": 1129270608
-    },
-    "2": {
-      "tokenName": "WETH",
-      "tokenSymbol": "\u039e",
-      "tokenIcon": "https://github.com/spothq/cryptocurrency-icons/raw/master/32%402x/icon/eth%402x.png",
-      "tokenDecimals": 6,
-      "tokenAddress": "0x36839bbd44f3f8ce1e247f89444d6601cad431eb8b4951555c1844641a58e2",
-      "tokenNameFelt": 1464161352,
-      "tokenSymbolFelt": 52894
     }
   }
 }
